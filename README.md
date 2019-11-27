@@ -13,7 +13,7 @@
 
 ```golang
 import (
-	T "github.com/zycfcn/tencentaisdkforgo"
+	T "github.com/zycfcn/tencentaisdkforgo/tencent"
 	"encoding/base64"
 	"io/ioutil"
 	"fmt"
